@@ -590,5 +590,5 @@ Aplikasi menggunakan tema luar angkasa dengan palet warna biru tua keunguan yang
 
 ---
 
-**Terakhir diupdate**: 01 Juni 2026
+**Terakhir diupdate**: 07 Juni 2026
 **Versi**: 1.0.0
